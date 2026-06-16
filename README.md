@@ -1,4 +1,4 @@
-# VSIBench BBox Evaluation
+# VSIBench BBox Evaluation wo Caption
 
 This directory evaluates VSIBench questions with bbox-only scene inputs.
 
